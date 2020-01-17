@@ -1,7 +1,8 @@
 @font-face {
-    font-family: 'dead_stockbold';
-    src: url('dead_stock-webfont.woff2') format('woff2'),
-         url('dead_stock-webfont.woff') format('woff');
+    font-family: 'Outrun future';
+    src: url('outrun.woff2') format('woff2'),
+         url('outrun.woff') format('woff');
+    font-weight: 700;
     font-weight: normal;
     font-style: normal;
 }
